@@ -81,3 +81,4 @@ C:\Users\inaza\source\repos\UseOfWebApiWithProject\UseOfWebApiWithProject\obj\De
 C:\Users\inaza\source\repos\UseOfWebApiWithProject\UseOfWebApiWithProject\obj\Debug\UseOfWebApiWithProject.csproj.CopyComplete
 C:\Users\inaza\source\repos\UseOfWebApiWithProject\UseOfWebApiWithProject\obj\Debug\UseOfWebApiWithProject.dll
 C:\Users\inaza\source\repos\UseOfWebApiWithProject\UseOfWebApiWithProject\obj\Debug\UseOfWebApiWithProject.pdb
+C:\Users\inaza\source\repos\UseOfWebApiWithProject\UseOfWebApiWithProject\obj\Debug\UseOfWebApiWithProject.csprojAssemblyReference.cache
